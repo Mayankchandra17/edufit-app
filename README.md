@@ -18,6 +18,13 @@ EduFit is a Flutter + Firebase based mobile application designed to help college
 - Fitness Module (Workout & Diet Plans)
 - Profile Management
 
+## Screenshots
+
+![Home](screenshots/home.png)
+![Login](screenshots/login.png)
+![Education](screenshots/education.png)
+![Fitness](screenshots/fitness.png)
+
 ## Future Improvements
 - Notifications & reminders
 - Progress tracking
